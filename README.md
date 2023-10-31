@@ -4,6 +4,14 @@ First clone this repo then change to the repo directory.
 
 Then run following command:
 ```sh
+python -m venv venv
+venv\Scripts\activate.bat
+pip install -r requirements.txt
+```
+
+# Deprecated
+Then run following command:
+```sh
 pip install poetry
 poetry install   # Create virtual environement, install all dependencies for the project
 poetry shell     # activate the virtual environment

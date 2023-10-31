@@ -1,0 +1,8 @@
+click == 8.0.4
+guesslang == 2.2.1
+Flask == 2.0.3
+Flask-Cors == 3.0.10
+streamlit == 1.7.0
+protobuf == 3.20
+numpy~=1.19.2
+Werkzeug==2.2.2
